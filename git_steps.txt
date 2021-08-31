@@ -1,0 +1,5 @@
+1. notepad new.txt
+2. git add .
+3. git commit -m "modified new.txt"
+4. git pull
+5. git push
